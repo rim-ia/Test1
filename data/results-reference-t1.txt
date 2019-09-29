@@ -1,0 +1,144 @@
+Q: Quelle est la distance entre Denver et Aspen?
+A: la distance entre Denver et Aspen est 1000.
+
+Q: Qui était Galileo?
+A: Galileo était X.
+
+Q: Qu'est-ce qu'un atome?
+A: un atome est X.
+
+Q: Quand Hawaii est-elle devenue un état?
+A: Hawaii est devenue un état en 2000.
+
+Q: Quelle est la hauteur du bâtiment Sears?
+A: la hauteur du bâtiment Sears est 1000.
+
+Q: Quelle est la fleur nationale de l'Australie?
+A: la fleur nationale de l'Australie est X.
+
+Q: Pourquoi la lune devient-elle orange?
+A: la lune devient orange parce que X.
+
+Q: Qu'est-ce que l'autisme?
+A: l'autisme est X.
+
+Q: Quand l'Idaho est-il devenu un état?
+A: l'Idaho est devenu un état en 2000.
+
+Q: Quelle est l'espérance de vie des criquets?
+A: l'espérance de vie des criquets est 1000.
+
+Q: Qu'est-ce que l'épilepsie?
+A: l'épilepsie est X.
+
+Q: En quelle année le Titanic a-t-il coulé?
+A: le Titanic a coulé en 2000.
+
+Q: Dans quelle ville est la tour Eiffel?
+A: la tour Eiffel est à Québec.
+
+Q: Qui a été le premier Américain à marcher dans l'espace?
+A: Luc Lamontagne a été le premier Américain à marcher dans l'espace.
+
+Q: Qu'est-ce que la biosphère?
+A: la biosphère est X.
+
+Q: Qu'est-ce que le trouble bipolaire?
+A: le trouble bipolaire est X.
+
+Q: Qui a développé l'ordinateur Macintosh?
+A: Luc Lamontagne a développé l'ordinateur Macintosh.
+
+Q: Quelle ligne imaginaire est à mi-chemin entre les pôles Nord et sud?
+A: ligne imaginaire à mi-chemin entre les pôles Nord et sud est X.
+
+Q: Où est l'aéroport John Wayne?
+A: l'aéroport John Wayne est à Québec.
+
+Q: Dans quelle région sont les Philippines?
+A: les Philippines sont à Québec.
+
+Q: Quelle est la vitesse moyenne des chevaux au Kentucky Derby?
+A: la vitesse moyenne des chevaux au Kentucky Derby est 1000.
+
+Q: Où sont les montagnes Rocheuses?
+A: les montagnes Rocheuses sont à Québec.
+
+Q: Que sont les invertébrés?
+A: les invertébrés sont X.
+
+Q: Quelle est la température au centre de la Terre?
+A: la température au centre de la Terre est 1000.
+
+Q: Quand John F. Kennedy a-t-il été élu président?
+A: John F. Kennedy a été élu président en 2000.
+
+Q: Quel âge avait Elvis Presley quand il est mort?
+A: Elvis Presley quand il est mort avait 1000.
+
+Q: Où est la rivière Orinoco?
+A: la rivière Orinoco est à Québec.
+
+Q: A quelle distance se trouve la ligne de service du net au tennis?
+A: la ligne de service du net au tennis se trouve 1000.
+
+Q: Combien de fibres devriez-vous avoir par jour?
+A: vous devriez avoir par jour 1000 fibres.
+
+Q: Combien y a-t-il de Grands Lacs?
+A: il y a 1000 Grands Lacs.
+
+Q: Le matériau appelé lin est fabriqué à partir de quelle plante?
+A: Le matériau appelé lin est fabriqué à partir de plante X.
+
+Q: Qu'est-ce que le téflon?
+A: le téflon est X.
+
+Q: Qu'est-ce que l'amitriptyline?
+A: l'amitriptyline est X.
+
+Q: Qu'est-ce qu'un chaman?
+A: un chaman est X.
+
+Q: Quel est le nom d'un morse femelle?
+A: le nom d'un morse femelle est X.
+
+Q: Combien de temps Rip Van Winkle a-t-il dormi?
+A: Rip Van Winkle a dormi 1000 temps.
+
+Q: Que sont les triglycérides?
+A: les triglycérides sont X.
+
+Q: Combien de litres dans un gallon?
+A: 1000 litres dans un gallon.
+
+Q: Quel est le nom de la chocolaterie de San Francisco?
+A: le nom de la chocolaterie de San Francisco est X.
+
+Q: Que sont les amphibiens?
+A: les amphibiens sont X.
+
+Q: Qui a découvert les rayons X?
+A: Luc Lamontagne a découvert les rayons X.
+
+Q: Qu'est-ce que la fibromyalgie?
+A: la fibromyalgie est X.
+
+Q: Que fait-on avec des drapeaux usés ou périmés?
+A: on fait X avec des drapeaux usés ou périmés.
+
+Q: Que signifie cc dans les moteurs?
+A: cc dans les moteurs signifie X.
+
+Q: Quand Elvis Presley est-il mort?
+A: Elvis Presley est mort en 2000.
+
+Q: Quelle est la capitale de la Yougoslavie?
+A: la capitale de la Yougoslavie est à Québec.
+
+Q: Où est Milan?
+A: Milan est à Québec.
+
+Q: Dans quel pays sont les jeux olympiques de 2020?
+A: les jeux olympiques de 2020 sont à Québec.
+
