@@ -29,7 +29,6 @@ def train_and_test_classifier(training_fn, test_fn):
     Y_train = labels
     X_test = vectorizer.transform(test_questions)
 
-ssss
     # MNB CLASSIFICATION
     mnb = MultinomialNB()
     mnb.fit(X_train, Y_train)
