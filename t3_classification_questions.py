@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 import sys
+import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import cross_val_score
 from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import classification_report
 training_questions_fn = "./data/questions-t3.txt"
 test_questions_fn = "./data/test-questions-t3.txt"
 
@@ -44,9 +46,15 @@ def train_and_test_classifier(training_fn, test_fn):
 
     print("Question;Prédit;Réel")
     for i in range(0,len(test_questions)):
-        print(test_questions[i] +";" + mnb_prediction[i] +";"+ Y_train[i] )
+        print(test_questions[i] +";" + mnb_prediction[i] +";"+ test_labels[i] )
 
     sys.stdout = old_stdout
+
+    #avoir les labels de facon unique
+    x = np.array(Y_train)
+    liste_label = list(np.unique(x))
+
+    print(classification_report(test_labels, mnb_prediction, target_names=liste_label))
 
     return accuracy_train, accuracy_test
 
