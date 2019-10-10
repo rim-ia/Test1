@@ -50,7 +50,8 @@ def train_and_test_classifier(training_fn, test_fn):
 
     sys.stdout = old_stdout
 
-    #avoir les labels de facon unique
+    # Obtenir la liste des différents labels
+
     x = np.array(Y_train)
     liste_label = list(np.unique(x))
 
