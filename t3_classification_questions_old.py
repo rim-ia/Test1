@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-import sys
+
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import cross_val_score
-from sklearn.naive_bayes import MultinomialNB
 training_questions_fn = "./data/questions-t3.txt"
 test_questions_fn = "./data/test-questions-t3.txt"
 
@@ -37,16 +37,6 @@ def train_and_test_classifier(training_fn, test_fn):
 
     accuracy_train = scores.mean() # A modifier
     accuracy_test = accuracy_score(test_labels, mnb_prediction )  # A modifier
-
-    f = open('output.txt', 'w')
-    old_stdout = sys.stdout
-    sys.stdout = f
-
-    print("Question;Prédit;Réel")
-    for i in range(0,len(test_questions)):
-        print(test_questions[i] +";" + mnb_prediction[i] +";"+ Y_train[i] )
-
-    sys.stdout = old_stdout
 
     return accuracy_train, accuracy_test
 
