@@ -1,0 +1,502 @@
+Question	Prédit	Réel		
+ How far is it from Denver to Aspen ?	QUANTITY	QUANTITY	0	 How
+What county is Modesto , California in ?	LOCATION	LOCATION	0	What
+What does the technical term ISDN mean ?	DEFINITION	ABBREVIATION	1	What
+What is an atom ?	DEFINITION	DEFINITION	0	What
+When did Hawaii become a state ?	TEMPORAL	TEMPORAL	0	When
+ How tall is the Sears Building ?	QUANTITY	QUANTITY	0	 How
+What does the abbreviation SOS mean ?	DEFINITION	ABBREVIATION	1	What
+What is the abbreviation for Texas ?	ENTITY	ABBREVIATION	1	What
+Why does the moon turn orange ?	DESCRIPTION	DESCRIPTION	0	Why 
+What is autism ?	DEFINITION	DEFINITION	0	What
+What city had a world fair in 1900 ?	LOCATION	LOCATION	0	What
+What person 's head is on a dime ?	PERSON	PERSON	0	What
+What is the average weight of a Yellow Labrador ?	QUANTITY	QUANTITY	0	What
+Who was the first man to fly across the Pacific Ocean ?	PERSON	PERSON	0	Who 
+When did Idaho become a state ?	TEMPORAL	TEMPORAL	0	When
+What is the life expectancy for crickets ?	QUANTITY	QUANTITY	0	What
+What is TMJ ?	ENTITY	ABBREVIATION	1	What
+Who developed the vaccination against polio ?	PERSON	PERSON	0	Who 
+What is epilepsy ?	DEFINITION	DEFINITION	0	What
+What year did the Titanic sink ?	TEMPORAL	TEMPORAL	0	What
+Who was the first American to walk in space ?	PERSON	PERSON	0	Who 
+What is a biosphere ?	DEFINITION	DEFINITION	0	What
+What river in the US is known as the Big Muddy ?	LOCATION	LOCATION	0	What
+What is bipolar disorder ?	DEFINITION	DEFINITION	0	What
+What is cholesterol ?	DEFINITION	DEFINITION	0	What
+Who developed the Macintosh computer ?	PERSON	PERSON	0	Who 
+What is die-casting ?	DESCRIPTION	DEFINITION	1	What
+What imaginary line is halfway between the North and South Poles ?	LOCATION	LOCATION	0	What
+Where is John Wayne airport ?	LOCATION	LOCATION	0	Wher
+What hemisphere is the Philippines in ?	LOCATION	LOCATION	0	What
+What is the average speed of the horses at the Kentucky Derby ?	QUANTITY	QUANTITY	0	What
+Where are the Rocky Mountains ?	LOCATION	LOCATION	0	Wher
+What is caffeine ?	ENTITY	DEFINITION	1	What
+What are invertebrates ?	ENTITY	DEFINITION	1	What
+What are triglycerides ?	ENTITY	DEFINITION	1	What
+How old was Elvis Presley when he died ?	QUANTITY	QUANTITY	0	How 
+Where is the Orinoco River ?	LOCATION	LOCATION	0	Wher
+ How far is the service line from the net in tennis ?	QUANTITY	QUANTITY	0	 How
+How much fiber should you have per day ?	QUANTITY	QUANTITY	0	How 
+How many Great Lakes are there ?	QUANTITY	QUANTITY	0	How 
+Material called linen is made from what plant ?	ENTITY	ENTITY	0	Mate
+What is Teflon ?	DEFINITION	DEFINITION	0	What
+What is amitriptyline ?	DEFINITION	DEFINITION	0	What
+What is a shaman ?	DEFINITION	DEFINITION	0	What
+What is the proper name for a female walrus ?	ENTITY	ENTITY	0	What
+What is a group of turkeys called ?	ENTITY	ENTITY	0	What
+How long did Rip Van Winkle sleep ?	QUANTITY	QUANTITY	0	How 
+What are xerophytes ?	ENTITY	DEFINITION	1	What
+How many liters in a gallon ?	QUANTITY	QUANTITY	0	How 
+What is an eclipse ?	ENTITY	DEFINITION	1	What
+What are amphibians ?	DEFINITION	DEFINITION	0	What
+Who discovered x-rays ?	PERSON	PERSON	0	Who 
+Which comedian 's signature line is `` Can we talk '' ?	PERSON	PERSON	0	Whic
+What is fibromyalgia ?	DEFINITION	DEFINITION	0	What
+What is Wimbledon ?	ENTITY	DEFINITION	1	What
+What does cc in engines mean ?	DEFINITION	DEFINITION	0	What
+When did Elvis Presley die ?	TEMPORAL	TEMPORAL	0	When
+What is the capital of Yugoslavia ?	LOCATION	LOCATION	0	What
+Where is Milan ?	LOCATION	LOCATION	0	Wher
+What is the speed hummingbirds fly ?	QUANTITY	QUANTITY	0	What
+What is the oldest city in the United States ?	LOCATION	LOCATION	0	What
+What was W.C. Fields ' real name ?	PERSON	PERSON	0	What
+What river flows between Fargo , North Dakota and Moorhead , Minnesota ?	LOCATION	LOCATION	0	What
+What do bats eat ?	ENTITY	ENTITY	0	What
+What state did the Battle of Bighorn take place in ?	LOCATION	LOCATION	0	What
+What are platelets ?	ENTITY	DEFINITION	1	What
+What is severance pay ?	ENTITY	DEFINITION	1	What
+What are spider veins ?	DEFINITION	DEFINITION	0	What
+What day and month did John Lennon die ?	TEMPORAL	TEMPORAL	0	What
+What strait separates North America from Asia ?	LOCATION	LOCATION	0	What
+What is poliomyelitis ?	ENTITY	DEFINITION	1	What
+How much was a ticket for the Titanic ?	QUANTITY	QUANTITY	0	How 
+What is the largest city in the world ?	LOCATION	LOCATION	0	What
+What American composer wrote the music for `` West Side Story '' ?	PERSON	PERSON	0	What
+Where is the Mall of the America ?	LOCATION	LOCATION	0	Wher
+What is the pH scale ?	DEFINITION	DEFINITION	0	What
+What type of currency is used in Australia ?	ENTITY	ENTITY	0	What
+ How tall is the Gateway Arch in St. Louis , MO ?	QUANTITY	QUANTITY	0	 How
+How much does the human adult female brain weigh ?	QUANTITY	QUANTITY	0	How 
+Who was the first governor of Alaska ?	PERSON	PERSON	0	Who 
+What is a prism ?	DEFINITION	DEFINITION	0	What
+When was the first liver transplant ?	TEMPORAL	TEMPORAL	0	When
+Who was elected president of South Africa in 1994 ?	PERSON	PERSON	0	Who 
+What is nicotine ?	ENTITY	DEFINITION	1	What
+When was Rosa Parks born ?	TEMPORAL	TEMPORAL	0	When
+Why is a ladybug helpful ?	DESCRIPTION	DESCRIPTION	0	Why 
+What is amoxicillin ?	DEFINITION	DEFINITION	0	What
+Who was the first female United States Representative ?	PERSON	PERSON	0	Who 
+What are sunspots ?	ENTITY	DEFINITION	1	What
+What country did Ponce de Leon come from ?	LOCATION	LOCATION	0	What
+The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?	ENTITY	ENTITY	0	The 
+What is desktop publishing ?	DEFINITION	DEFINITION	0	What
+What is the temperature of the sun 's surface ?	QUANTITY	QUANTITY	0	What
+What year did Canada join the United Nations ?	TEMPORAL	TEMPORAL	0	What
+What is nanotechnology ?	ENTITY	DEFINITION	1	What
+Where is Prince Edward Island ?	LOCATION	LOCATION	0	Wher
+What is an obtuse angle ?	ENTITY	DEFINITION	1	What
+What is cryogenics ?	DEFINITION	DEFINITION	0	What
+What are coral reefs ?	DEFINITION	DEFINITION	0	What
+What are polymers ?	ENTITY	DEFINITION	1	What
+What is neurology ?	DEFINITION	DEFINITION	0	What
+Who invented the calculator ?	PERSON	PERSON	0	Who 
+How do you measure earthquakes ?	DESCRIPTION	DESCRIPTION	0	How 
+What is acetaminophen ?	ENTITY	DEFINITION	1	What
+What county is Phoenix , AZ in ?	LOCATION	LOCATION	0	What
+What is a micron ?	DEFINITION	DEFINITION	0	What
+The sun 's core , what is the temperature ?	QUANTITY	QUANTITY	0	The 
+What is supernova ?	ENTITY	DEFINITION	1	What
+When were William Shakespeare 's twins born ?	TEMPORAL	TEMPORAL	0	When
+What is the highest dam in the U.S. ?	LOCATION	LOCATION	0	What
+What color is a poison arrow frog ?	ENTITY	ENTITY	0	What
+What is acupuncture ?	DEFINITION	DEFINITION	0	What
+What is neuropathy ?	ENTITY	DEFINITION	1	What
+What is the name of Neil Armstrong 's wife ?	PERSON	PERSON	0	What
+What is cryptography ?	ENTITY	DEFINITION	1	What
+Who won Ms. American in 1989 ?	PERSON	PERSON	0	Who 
+When did the Hindenberg crash ?	TEMPORAL	TEMPORAL	0	When
+What is fungus ?	ENTITY	DEFINITION	1	What
+What is sodium chloride ?	ENTITY	DEFINITION	1	What
+Where is Perth ?	LOCATION	LOCATION	0	Wher
+What year did WWII begin ?	TEMPORAL	TEMPORAL	0	What
+What is influenza ?	ENTITY	DEFINITION	1	What
+What is ozone depletion ?	ENTITY	DEFINITION	1	What
+Who discovered America ?	PERSON	PERSON	0	Who 
+What is phenylalanine ?	ENTITY	DEFINITION	1	What
+Which president was unmarried ?	PERSON	PERSON	0	Whic
+ How wide is the Milky Way galaxy ?	QUANTITY	QUANTITY	0	 How
+What is sonar ?	ENTITY	DEFINITION	1	What
+What is phosphorus ?	ENTITY	DEFINITION	1	What
+What is Valentine 's Day ?	ENTITY	DEFINITION	1	What
+ How far is a nautical mile ?	QUANTITY	QUANTITY	0	 How
+Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?	PERSON	PERSON	0	Who 
+What does target heart rate mean ?	DEFINITION	DEFINITION	0	What
+What was the first satellite to go into space ?	ENTITY	ENTITY	0	What
+What is bandwidth ?	ENTITY	DEFINITION	1	What
+What is a parasite ?	ENTITY	DEFINITION	1	What
+Where is the Holland Tunnel ?	LOCATION	LOCATION	0	Wher
+Who wrote the hymn `` Amazing Grace '' ?	PERSON	PERSON	0	Who 
+What is pilates ?	ENTITY	DEFINITION	1	What
+What is Mardi Gras ?	ENTITY	DEFINITION	1	What
+What is dianetics ?	ENTITY	DEFINITION	1	What
+What is the name of Roy Roger 's dog ?	ENTITY	ENTITY	0	What
+Where are the National Archives ?	LOCATION	LOCATION	0	Wher
+What is a baby turkey called ?	ENTITY	ENTITY	0	What
+What is osteoporosis ?	ENTITY	DEFINITION	1	What
+What is the longest bone in the human body ?	ENTITY	ENTITY	0	What
+Who is a German philosopher ?	PERSON	PERSON	0	Who 
+What were Christopher Columbus ' three ships ?	ENTITY	ENTITY	0	What
+What does Phi Beta Kappa mean ?	DEFINITION	DEFINITION	0	What
+What is peyote ?	ENTITY	DEFINITION	1	What
+What is another name for vitamin B1 ?	ENTITY	ENTITY	0	What
+Who discovered radium ?	PERSON	PERSON	0	Who 
+What is the chunnel ?	ENTITY	DEFINITION	1	What
+When was Algeria colonized ?	TEMPORAL	TEMPORAL	0	When
+What are antacids ?	ENTITY	DEFINITION	1	What
+What continent is Egypt on ?	LOCATION	LOCATION	0	What
+What is the capital of Mongolia ?	LOCATION	LOCATION	0	What
+What are Quaaludes ?	ENTITY	DEFINITION	1	What
+What is naproxen ?	ENTITY	DEFINITION	1	What
+What state is the geographic center of the lower 48 states ?	LOCATION	LOCATION	0	What
+What is strep throat ?	ENTITY	DEFINITION	1	What
+What are Aborigines ?	ENTITY	DEFINITION	1	What
+What is hybridization ?	ENTITY	DEFINITION	1	What
+Where is the volcano Mauna Loa ?	LOCATION	LOCATION	0	Wher
+What is another astronomic term for the Northern Lights ?	ENTITY	ENTITY	0	What
+What is solar wind ?	ENTITY	DEFINITION	1	What
+When was Lyndon B. Johnson born ?	TEMPORAL	TEMPORAL	0	When
+What is pneumonia ?	ENTITY	DEFINITION	1	What
+What state has the least amount of rain per year ?	LOCATION	LOCATION	0	What
+Who founded American Red Cross ?	PERSON	PERSON	0	Who 
+What is a fuel cell ?	ENTITY	DEFINITION	1	What
+How fast is alcohol absorbed ?	QUANTITY	QUANTITY	0	How 
+What is the Milky Way ?	ENTITY	DEFINITION	1	What
+What is mold ?	ENTITY	DEFINITION	1	What
+Where is the Shawnee National Forest ?	LOCATION	LOCATION	0	Wher
+What U.S. state 's motto is `` Live free or Die '' ?	LOCATION	LOCATION	0	What
+Where is the Lourve ?	LOCATION	LOCATION	0	Wher
+What is semolina ?	ENTITY	DEFINITION	1	What
+What is Ursa Major ?	ENTITY	DEFINITION	1	What
+ How far is Pluto from the sun ?	QUANTITY	QUANTITY	0	 How
+What is acid rain ?	ENTITY	DEFINITION	1	What
+What is quicksilver ?	ENTITY	DEFINITION	1	What
+Where is the Euphrates River ?	LOCATION	LOCATION	0	Wher
+What is a thyroid ?	ENTITY	DEFINITION	1	What
+What is natural gas composed of ?	ENTITY	ENTITY	0	What
+Who is the Prime Minister of Canada ?	PERSON	PERSON	0	Who 
+What is acetic acid ?	ENTITY	DEFINITION	1	What
+What is leukemia ?	DEFINITION	DEFINITION	0	What
+Where did Howard Hughes die ?	LOCATION	LOCATION	0	Wher
+What is the birthstone for June ?	ENTITY	ENTITY	0	What
+What is the Moulin Rouge ?	ENTITY	DEFINITION	1	What
+ What is the distance in miles from the earth to the sun ?	QUANTITY	QUANTITY	0	 Wha
+What is the average life span for a chicken ?	QUANTITY	QUANTITY	0	What
+What are pathogens ?	ENTITY	DEFINITION	1	What
+What is relative humidity ?	DEFINITION	DEFINITION	0	What
+What city has the zip code of 35824 ?	LOCATION	LOCATION	0	What
+What currency is used in Algeria ?	ENTITY	ENTITY	0	What
+Who invented the hula hoop ?	PERSON	PERSON	0	Who 
+What was the most popular toy in 1957 ?	ENTITY	ENTITY	0	What
+What is pastrami made of ?	ENTITY	ENTITY	0	What
+What is the name of the satellite that the Soviet Union sent into space in 1957 ?	ENTITY	ENTITY	0	What
+What city 's newspaper is called `` The Enquirer '' ?	LOCATION	LOCATION	0	What
+Who invented the slinky ?	PERSON	PERSON	0	Who 
+What are the animals that don 't have backbones called ?	ENTITY	ENTITY	0	What
+What is mad cow disease ?	ENTITY	DEFINITION	1	What
+Where is the volcano Olympus Mons located ?	LOCATION	LOCATION	0	Wher
+Who was the 23rd president of the United States ?	PERSON	PERSON	0	Who 
+What is the average body temperature ?	QUANTITY	QUANTITY	0	What
+What does a defibrillator do ?	DESCRIPTION	DESCRIPTION	0	What
+What are ethics ?	ENTITY	DEFINITION	1	What
+What is an annuity ?	ENTITY	DEFINITION	1	What
+How fast is the speed of light ?	QUANTITY	QUANTITY	0	How 
+What province is Montreal in ?	LOCATION	LOCATION	0	What
+What is Muscular Dystrophy ?	ENTITY	DEFINITION	1	What
+What is propylene glycol ?	ENTITY	DEFINITION	1	What
+What is the most frequently spoken language in the Netherlands ?	ENTITY	ENTITY	0	What
+What is a carcinogen ?	ENTITY	DEFINITION	1	What
+What are the spots on dominoes called ?	ENTITY	ENTITY	0	What
+How many pounds in a ton ?	QUANTITY	QUANTITY	0	How 
+What is nepotism ?	ENTITY	DEFINITION	1	What
+What is myopia ?	ENTITY	DEFINITION	1	What
+What is metabolism ?	ENTITY	DEFINITION	1	What
+What does `` Sitting Shiva '' mean ?	DEFINITION	DEFINITION	0	What
+What are semiconductors ?	ENTITY	DEFINITION	1	What
+Which mountain range in North America stretches from Maine to Georgia ?	LOCATION	LOCATION	0	Whic
+What is plastic made of ?	ENTITY	ENTITY	0	What
+What is a tsunami ?	ENTITY	DEFINITION	1	What
+What does your spleen do ?	DESCRIPTION	DESCRIPTION	0	What
+Where is the Grand Canyon ?	LOCATION	LOCATION	0	Wher
+Who invented the telephone ?	PERSON	PERSON	0	Who 
+What is genocide ?	ENTITY	DEFINITION	1	What
+What is the name of the leader of Ireland ?	PERSON	PERSON	0	What
+What is an earthquake ?	ENTITY	DEFINITION	1	What
+How many gallons of water are there in a cubic foot ?	QUANTITY	QUANTITY	0	How 
+What are the two houses of the Legislative branch ?	ENTITY	ENTITY	0	What
+What are enzymes ?	ENTITY	DEFINITION	1	What
+In Poland , where do most people live ?	LOCATION	LOCATION	0	In P
+What is bangers and mash ?	ENTITY	DEFINITION	1	What
+What is the location of the Sea of Tranquility ?	LOCATION	LOCATION	0	What
+How fast is sound ?	QUANTITY	QUANTITY	0	How 
+What is an ulcer ?	ENTITY	DEFINITION	1	What
+What is vertigo ?	ENTITY	DEFINITION	1	What
+What causes gray hair ?	DESCRIPTION	DESCRIPTION	0	What
+What is hypertension ?	DEFINITION	DEFINITION	0	What
+What is the spirometer test ?	ENTITY	DEFINITION	1	What
+What is the longest suspension bridge in the U.S. ?	LOCATION	LOCATION	0	What
+What is schizophrenia ?	ENTITY	DEFINITION	1	What
+What is angiotensin ?	ENTITY	DEFINITION	1	What
+What do meteorologists do ?	DESCRIPTION	DESCRIPTION	0	What
+What is the criterion for being legally blind ?	ENTITY	ENTITY	0	What
+Who is the tallest man in the world ?	PERSON	PERSON	0	Who 
+What are the twin cities ?	LOCATION	LOCATION	0	What
+What did Edward Binney and Howard Smith invent in 1903 ?	ENTITY	ENTITY	0	What
+What is the statue of liberty made of ?	ENTITY	ENTITY	0	What
+What are pediatricians ?	ENTITY	DEFINITION	1	What
+What planet is known as the `` red '' planet ?	LOCATION	LOCATION	0	What
+What are solar cells ?	ENTITY	DEFINITION	1	What
+What is the colorful Korean traditional dress called ?	ENTITY	ENTITY	0	What
+What is compounded interest ?	ENTITY	DEFINITION	1	What
+Mexican pesos are worth what in U.S. dollars ?	QUANTITY	QUANTITY	0	Mexi
+Who was the first African American to play for the Brooklyn Dodgers ?	PERSON	PERSON	0	Who 
+Who was the first Prime Minister of Canada ?	PERSON	PERSON	0	Who 
+How many Admirals are there in the U.S. Navy ?	QUANTITY	QUANTITY	0	How 
+What instrument did Glenn Miller play ?	ENTITY	ENTITY	0	What
+How old was Joan of Arc when she died ?	QUANTITY	QUANTITY	0	How 
+What does the word fortnight mean ?	DEFINITION	DEFINITION	0	What
+What are capers ?	ENTITY	DEFINITION	1	What
+What is the capital of Ethiopia ?	LOCATION	LOCATION	0	What
+For how long is an elephant pregnant ?	QUANTITY	QUANTITY	0	For 
+How did Janice Joplin die ?	DESCRIPTION	DESCRIPTION	0	How 
+What is the primary language in Iceland ?	ENTITY	ENTITY	0	What
+What is the difference between AM radio stations and FM radio stations ?	DESCRIPTION	DESCRIPTION	0	What
+What is an antigen ?	ENTITY	DEFINITION	1	What
+Who was the first woman governor in the U.S. ?	PERSON	PERSON	0	Who 
+What is a thermometer ?	ENTITY	DEFINITION	1	What
+What is rheumatoid arthritis ?	ENTITY	DEFINITION	1	What
+What is viscosity ?	DEFINITION	DEFINITION	0	What
+What year did Oklahoma become a state ?	TEMPORAL	TEMPORAL	0	What
+What is cerebral palsy ?	ENTITY	DEFINITION	1	What
+What is a mirror made out of ?	ENTITY	ENTITY	0	What
+Where on the body is a mortarboard worn ?	LOCATION	LOCATION	0	Wher
+What was J.F.K. 's wife 's name ?	PERSON	PERSON	0	What
+What does I.V. stand for ?	ABBREVIATION	ABBREVIATION	0	What
+What is pectin ?	ENTITY	DEFINITION	1	What
+Where is Hitler buried ?	LOCATION	LOCATION	0	Wher
+What is bio-diversity ?	ENTITY	DEFINITION	1	What
+What is e-coli ?	ENTITY	DEFINITION	1	What
+What is foreclosure ?	LOCATION	DEFINITION	1	What
+What is home equity ?	LOCATION	DEFINITION	1	What
+What is pulmonary fibrosis ?	LOCATION	DEFINITION	1	What
+What is the largest city in the U.S. ?	LOCATION	LOCATION	0	What
+What is foot and mouth disease ?	ENTITY	ENTITY	0	What
+What is the life expectancy of a dollar bill ?	QUANTITY	QUANTITY	0	What
+Who was Galileo ?	PERSON	DEFINITION	1	Who 
+Who was Abraham Lincoln ?	PERSON	DEFINITION	1	Who 
+Who is Duke Ellington ?	PERSON	DEFINITION	1	Who 
+What color is indigo ?	ENTITY	ENTITY	0	What
+How old do you have to be in order to rent a car in Italy ?	QUANTITY	QUANTITY	0	How 
+What does a barometer measure ?	ENTITY	ENTITY	0	What
+What color is a giraffe 's tongue ?	ENTITY	ENTITY	0	What
+What does USPS stand for ?	ABBREVIATION	ABBREVIATION	0	What
+What position did Willie Davis play in baseball ?	PERSON	DEFINITION	1	What
+What is done with worn or outdated flags ?	DEFINITION	DESCRIPTION	1	What
+What date did Neil Armstrong land on the moon ?	TEMPORAL	TEMPORAL	0	What
+When was Hiroshima bombed ?	TEMPORAL	TEMPORAL	0	When
+Where is the Savannah River ?	LOCATION	LOCATION	0	Wher
+Who was the first woman killed in the Vietnam War ?	PERSON	PERSON	0	Who 
+What planet has the strongest magnetic field of all the planets ?	LOCATION	LOCATION	0	What
+Who is the governor of Alaska ?	PERSON	PERSON	0	Who 
+What is the effect of acid rain ?	ENTITY	DESCRIPTION	1	What
+What is the capital of Persia ?	LOCATION	LOCATION	0	What
+Where is the Eiffel Tower ?	LOCATION	LOCATION	0	Wher
+How many hearts does an octopus have ?	QUANTITY	QUANTITY	0	How 
+What is the esophagus used for ?	ENTITY	DESCRIPTION	1	What
+What is the deepest lake in the US ?	LOCATION	LOCATION	0	What
+What is the effect of volcanoes on the climate ?	LOCATION	DESCRIPTION	1	What
+Who was the first U.S. president to appear on TV ?	PERSON	PERSON	0	Who 
+Where is the Little League Museum ?	LOCATION	LOCATION	0	Wher
+What are the two types of twins ?	ENTITY	ENTITY	0	What
+What is the brightest star ?	LOCATION	LOCATION	0	What
+What is diabetes ?	DEFINITION	DEFINITION	0	What
+What do you call a newborn kangaroo ?	DESCRIPTION	ENTITY	1	What
+What mineral helps prevent osteoporosis ?	DESCRIPTION	ENTITY	1	What
+What color is yak milk ?	ENTITY	ENTITY	0	What
+What date was Dwight D. Eisenhower born ?	TEMPORAL	TEMPORAL	0	What
+What primary colors do you mix to make orange ?	DESCRIPTION	ENTITY	1	What
+Why is the sun yellow ?	DESCRIPTION	DESCRIPTION	0	Why 
+What do you call a professional map drawer ?	DESCRIPTION	ENTITY	1	What
+When was Abraham Lincoln born ?	TEMPORAL	TEMPORAL	0	When
+What is Australia 's national flower ?	LOCATION	ENTITY	1	What
+What metal has the highest melting point ?	LOCATION	ENTITY	1	What
+What year was Mozart born ?	TEMPORAL	TEMPORAL	0	What
+What is a group of frogs called ?	ENTITY	ENTITY	0	What
+What is the name of William Penn 's ship ?	ENTITY	ENTITY	0	What
+What is the Ohio state bird ?	LOCATION	ENTITY	1	What
+What is the street address of the White House ?	LOCATION	LOCATION	0	What
+What is Hawaii 's state flower ?	LOCATION	ENTITY	1	What
+What fruit is Melba sauce made from ?	ENTITY	ENTITY	0	What
+What is the major fault line near Kentucky ?	LOCATION	ENTITY	1	What
+What is the percentage of water content in the human body ?	QUANTITY	QUANTITY	0	What
+How much does water weigh ?	QUANTITY	QUANTITY	0	How 
+What is the sales tax in Minnesota ?	LOCATION	ENTITY	1	What
+What is the electrical output in Madrid , Spain ?	LOCATION	ENTITY	1	What
+Who is the only president to serve 2 non-consecutive terms ?	PERSON	PERSON	0	Who 
+What is the Illinois state flower ?	LOCATION	ENTITY	1	What
+Who painted the ceiling of the Sistine Chapel ?	PERSON	PERSON	0	Who 
+Name a stimulant .	ENTITY	ENTITY	0	Name
+What is Maryland 's state bird ?	LOCATION	ENTITY	1	What
+What year did the Andy Griffith show begin ?	TEMPORAL	TEMPORAL	0	What
+What is the state flower of Michigan ?	LOCATION	ENTITY	1	What
+What is the smallest bird in Britain ?	LOCATION	ENTITY	1	What
+What is the location of Lake Champlain ?	LOCATION	LOCATION	0	What
+What is New York 's state bird ?	LOCATION	ENTITY	1	What
+What is the longest major league baseball-winning streak ?	PERSON	ENTITY	1	What
+What was President Lyndon Johnson 's reform program called ?	PERSON	ENTITY	1	What
+Who wrote `` The Divine Comedy '' ?	PERSON	PERSON	0	Who 
+What was the name of the plane Lindbergh flew solo across the Atlantic ?	PERSON	ENTITY	1	What
+What was the name of the first U.S. satellite sent into space ?	PERSON	ENTITY	1	What
+Why in tennis are zero points called love ?	DESCRIPTION	DESCRIPTION	0	Why 
+What kind of dog was Toto in the Wizard of Oz ?	ENTITY	ENTITY	0	What
+In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?	PERSON	ENTITY	1	In w
+What does ciao mean ?	DEFINITION	DEFINITION	0	What
+What is the only artery that carries blue blood from the heart to the lungs ?	ENTITY	ENTITY	0	What
+How often does Old Faithful erupt at Yellowstone National Park ?	QUANTITY	QUANTITY	0	How 
+In the late 1700 's British convicts were used to populate which colony ?	ENTITY	LOCATION	1	In t
+What peninsula is Spain part of ?	ENTITY	LOCATION	1	What
+What color does litmus paper turn when it comes into contact with a strong acid ?	ENTITY	ENTITY	0	What
+What are the colors of the German flag ?	ENTITY	ENTITY	0	What
+What body of water are the Canary Islands in ?	ENTITY	LOCATION	1	What
+What soviet seaport is on the Black Sea ?	LOCATION	LOCATION	0	What
+What French province is cognac produced in ?	ENTITY	LOCATION	1	What
+What currency do they use in Brazil ?	ENTITY	ENTITY	0	What
+What are Canada 's two territories ?	ENTITY	LOCATION	1	What
+What city is also known as `` The Gateway to the West '' ?	ENTITY	LOCATION	1	What
+Name a food high in zinc .	ENTITY	ENTITY	0	Name
+When did North Carolina enter the union ?	TEMPORAL	TEMPORAL	0	When
+Where do apple snails live ?	LOCATION	LOCATION	0	Wher
+What New York City structure is also known as the Twin Towers ?	PERSON	LOCATION	1	What
+What does CPR stand for ?	ABBREVIATION	ABBREVIATION	0	What
+What is the name of the chocolate company in San Francisco ?	ENTITY	ORGANIZATION	1	What
+Who killed John F. Kennedy ?	PERSON	PERSON	0	Who 
+Who was the first vice president of the U.S. ?	PERSON	PERSON	0	Who 
+What birthstone is turquoise ?	ENTITY	ENTITY	0	What
+Who was the first US President to ride in an automobile to his inauguration ?	PERSON	PERSON	0	Who 
+How old was the youngest president of the United States ?	QUANTITY	QUANTITY	0	How 
+When was Ulysses S. Grant born ?	TEMPORAL	TEMPORAL	0	When
+What is the oldest university in the US ?	LOCATION	ORGANIZATION	1	What
+Who lived in the Neuschwanstein castle ?	PERSON	PERSON	0	Who 
+What did Jesse Jackson organize ?	LOCATION	ORGANIZATION	1	What
+What is a panic disorder ?	DEFINITION	DEFINITION	0	What
+Who invented the instant Polaroid camera ?	PERSON	PERSON	0	Who 
+What chain store is headquartered in Bentonville , Arkansas ?	LOCATION	ORGANIZATION	1	What
+What is a baby lion called ?	ENTITY	ENTITY	0	What
+George Bush purchased a small interest in which baseball team ?	PERSON	ORGANIZATION	1	Geor
+What baseball team was the first to make numbers part of their uniform ?	PERSON	ORGANIZATION	1	What
+What French ruler was defeated at the battle of Waterloo ?	ENTITY	PERSON	1	What
+What is Shakespeare 's nickname ?	ENTITY	PERSON	1	What
+What is the conversion rate between dollars and pounds ?	DESCRIPTION	QUANTITY	1	What
+Developing nations comprise what percentage of the world 's population ?	QUANTITY	QUANTITY	0	Deve
+What is the fourth highest mountain in the world ?	LOCATION	LOCATION	0	What
+What is the population of China ?	ENTITY	QUANTITY	1	What
+What is the heaviest naturally occurring element ?	ENTITY	ENTITY	0	What
+When is Father 's Day ?	TEMPORAL	TEMPORAL	0	When
+What does the acronym NASA stand for ?	ABBREVIATION	ABBREVIATION	0	What
+ How long is the Columbia River in miles ?	QUANTITY	QUANTITY	0	 How
+What city 's newspaper is called `` The Star '' ?	LOCATION	LOCATION	0	What
+What is carbon dioxide ?	DEFINITION	DEFINITION	0	What
+Where is the Mason/Dixon line ?	LOCATION	LOCATION	0	Wher
+ What is the diameter of a golf ball ?	ENTITY	QUANTITY	1	 Wha
+ What is the earth 's diameter ?	ENTITY	QUANTITY	1	 Wha
+Which U.S.A. president appeared on `` Laugh-In '' ?	PERSON	PERSON	0	Whic
+What are cigarettes made of ?	ENTITY	ENTITY	0	What
+What is the capital of Zimbabwe ?	LOCATION	LOCATION	0	What
+What does NASA stand for ?	ABBREVIATION	ABBREVIATION	0	What
+What is the gestation period for a cat ?	ENTITY	QUANTITY	1	What
+What is the melting point of gold ?	ENTITY	QUANTITY	1	What
+What is nuclear power ?	DEFINITION	DEFINITION	0	What
+What is the speed of light ?	ENTITY	QUANTITY	1	What
+Who is the congressman from state of Texas on the armed forces committee ?	PERSON	PERSON	0	Who 
+Who was president in 1913 ?	PERSON	PERSON	0	Who 
+ What is the width of a football field ?	ENTITY	QUANTITY	1	 Wha
+What is the atomic weight of silver ?	ENTITY	QUANTITY	1	What
+What is the temperature at the center of the earth ?	LOCATION	QUANTITY	1	What
+What is the population of Seattle ?	LOCATION	QUANTITY	1	What
+What continent is Argentina on ?	LOCATION	LOCATION	0	What
+What monastery was raided by Vikings in the late eighth century ?	ENTITY	ENTITY	0	What
+ What is the length of the coastline of the state of Alaska ?	LOCATION	QUANTITY	1	 Wha
+Where is the tallest roller coaster located ?	LOCATION	LOCATION	0	Wher
+What is the melting point of copper ?	LOCATION	QUANTITY	1	What
+Who discovered oxygen ?	PERSON	PERSON	0	Who 
+What is the population of Nigeria ?	LOCATION	QUANTITY	1	What
+What is the name given to the Tiger at Louisiana State University ?	ENTITY	ENTITY	0	What
+Where are the British crown jewels kept ?	LOCATION	LOCATION	0	Wher
+Who was the first person to reach the North Pole ?	PERSON	PERSON	0	Who 
+ What is the depth of the Nile river ?	LOCATION	QUANTITY	1	 Wha
+What is the murder rate in Windsor , Ontario ?	LOCATION	QUANTITY	1	What
+What is the population of Australia ?	LOCATION	QUANTITY	1	What
+ What is the elevation of St. Louis , MO ?	LOCATION	QUANTITY	1	 Wha
+What is the world 's population ?	LOCATION	QUANTITY	1	What
+What is the sales tax rate in New York ?	LOCATION	QUANTITY	1	What
+Who invented Trivial Pursuit ?	PERSON	PERSON	0	Who 
+What gasses are in the troposphere ?	ENTITY	ENTITY	0	What
+Which country has the most water pollution ?	LOCATION	LOCATION	0	Whic
+What is the scientific name for elephant ?	ENTITY	ENTITY	0	What
+Who is the actress known for her role in the movie `` Gypsy '' ?	PERSON	PERSON	0	Who 
+What breed of hunting dog did the Beverly Hillbillies own ?	ENTITY	ENTITY	0	What
+What is the rainiest place on Earth ?	LOCATION	LOCATION	0	What
+Who was the first African American to win the Nobel Prize in literature ?	PERSON	PERSON	0	Who 
+When is St. Patrick 's Day ?	TEMPORAL	TEMPORAL	0	When
+What was FDR 's dog 's name ?	ENTITY	ENTITY	0	What
+What colors need to be mixed to get the color pink ?	ENTITY	ENTITY	0	What
+What is the most popular sport in Japan ?	ENTITY	ENTITY	0	What
+What is the active ingredient in baking soda ?	ENTITY	ENTITY	0	What
+When was Thomas Jefferson born ?	TEMPORAL	TEMPORAL	0	When
+How cold should a refrigerator be ?	QUANTITY	QUANTITY	0	How 
+What is the population of Venezuela ?	LOCATION	QUANTITY	1	What
+What is the most common eye color ?	ENTITY	ENTITY	0	What
+Where was the first golf course in the United States ?	LOCATION	LOCATION	0	Wher
+What is Susan B. Anthony 's birthday ?	DEFINITION	TEMPORAL	1	What
+During which season do most thunderstorms occur ?	ENTITY	TEMPORAL	1	Duri
+What year did the Milwaukee Braves become the Atlanta Braves ?	ENTITY	TEMPORAL	1	What
+What year did the NFL go on strike ?	ENTITY	TEMPORAL	1	What
+What is the National Park in Utah ?	LOCATION	LOCATION	0	What
+What year did Mussolini seize power in Italy ?	ENTITY	TEMPORAL	1	What
+In which state would you find the Catskill Mountains ?	LOCATION	LOCATION	0	In w
+What do you call a word that is spelled the same backwards and forwards ?	ENTITY	ENTITY	0	What
+What year did the Titanic start on its journey ?	ENTITY	TEMPORAL	1	What
+When is hurricane season in the Caribbean ?	LOCATION	TEMPORAL	1	When
+When is the summer solstice ?	LOCATION	TEMPORAL	1	When
+What year did the United States abolish the draft ?	LOCATION	TEMPORAL	1	What
+What year did the U.S. buy Alaska ?	LOCATION	TEMPORAL	1	What
+What is the date of Mexico 's independence ?	LOCATION	TEMPORAL	1	What
+What currency does Luxembourg use ?	ENTITY	ENTITY	0	What
+When did John F. Kennedy get elected as President ?	PERSON	TEMPORAL	1	When
+What type of polymer is used for bulletproof vests ?	ENTITY	ENTITY	0	What
+What currency does Argentina use ?	ENTITY	ENTITY	0	What
+Mercury , what year was it discovered ?	PERSON	TEMPORAL	1	Merc
+What Canadian city has the largest population ?	LOCATION	LOCATION	0	What
+What color are crickets ?	ENTITY	ENTITY	0	What
+Which country gave New York the Statue of Liberty ?	LOCATION	LOCATION	0	Whic
+What was the last year that the Chicago Cubs won the World Series ?	PERSON	TEMPORAL	1	What
+What precious stone is a form of pure carbon ?	ENTITY	ENTITY	0	What
+What kind of gas is in a fluorescent bulb ?	ENTITY	ENTITY	0	What
+When was the first stamp issued ?	PERSON	TEMPORAL	1	When
+What river runs through Rowe , Italy ?	LOCATION	LOCATION	0	What
+When was the first Wal-Mart store opened ?	PERSON	TEMPORAL	1	When
+What year was the Mona Lisa painted ?	PERSON	TEMPORAL	1	What
+ How far away is the moon ?	QUANTITY	QUANTITY	0	 How
+What is the source of natural gas ?	ENTITY	ENTITY	0	What
+When was President Kennedy shot ?	PERSON	TEMPORAL	1	When
+When was the Boston tea party ?	PERSON	TEMPORAL	1	When
+When was the first kidney transplant ?	PERSON	TEMPORAL	1	When
+What 's the easiest way to remove wallpaper ?	ENTITY	ENTITY	0	What
+When is the official first day of summer ?	PERSON	TEMPORAL	1	When
+How much of an apple is water ?	QUANTITY	QUANTITY	0	How 
+Who was the 22nd President of the US ?	PERSON	PERSON	0	Who 
+What is the money they use in Zambia ?	ENTITY	ENTITY	0	What
+How many feet in a mile ?	QUANTITY	QUANTITY	0	How 
+What is the birthstone of October ?	ENTITY	ENTITY	0	What
+When was the telephone invented ?	PERSON	TEMPORAL	1	When
+				

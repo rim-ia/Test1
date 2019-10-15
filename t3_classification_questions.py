@@ -6,6 +6,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.model_selection import cross_val_score
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import classification_report
+
 training_questions_fn = "./data/questions-t3.txt"
 test_questions_fn = "./data/test-questions-t3.txt"
 
@@ -17,45 +18,51 @@ def run_question_classification(training_fn, test_fn):
 
 
 def train_and_test_classifier(training_fn, test_fn):
-    questions, labels = load_dataset(training_fn)
+    questions, labels = load_dataset(training_fn)  # Jeu d'entraînement
     print("Nb questions d'entraînement:", len(questions))
-    test_questions, test_labels = load_dataset(test_fn)
+    test_questions, test_labels = load_dataset(test_fn)  # Jeu de test
     print("Nb questions de test:", len(test_questions))
 
     # Insérer ici votre code pour la classification des questions.
-    # Votre code...
+
+    # Représentation Sac à mots
     vectorizer = CountVectorizer()
 
     X_train = vectorizer.fit_transform(questions)
     Y_train = labels
     X_test = vectorizer.transform(test_questions)
 
-    # MNB CLASSIFICATION
+    # MultinomialNaiveBayes CLASSIFICATION
     mnb = MultinomialNB()
     mnb.fit(X_train, Y_train)
     mnb_prediction = mnb.predict(X_test)
 
-    scores = cross_val_score(mnb, X_train,Y_train, cv=5)  # K = 5 Validation croisée sur 5 folds
+    # K = 5 Validation croisée sur 5 folds
+    scores = cross_val_score(mnb, X_train, Y_train, cv=5)
 
-    accuracy_train = scores.mean() # A modifier
-    accuracy_test = accuracy_score(test_labels, mnb_prediction )  # A modifier
+    # Performance du modèle sur le jeu d'entrainement en mode MNB
+    accuracy_train = scores.mean()
 
-    f = open('output.txt', 'w')
+    # Performance du modèle sur le jeu de test en mode MNB
+    accuracy_test = accuracy_score(test_labels, mnb_prediction)
+
+    # Génération d'un fichier de sortie contenant : La question, le type prédit et le type réel
+    f = open('Test_output.txt', 'w')
     old_stdout = sys.stdout
     sys.stdout = f
 
     print("Question;Prédit;Réel")
-    for i in range(0,len(test_questions)):
-        print(test_questions[i] +";" + mnb_prediction[i] +";"+ test_labels[i] )
+    for i in range(0, len(test_questions)):
+        print(test_questions[i] + ";" + mnb_prediction[i] + ";" + test_labels[i])
 
     sys.stdout = old_stdout
 
-    # Obtenir la liste des différents labels
+    # # Performance du modèle sur le jeu de test pour chacun des labels
 
     x = np.array(Y_train)
-    liste_label = list(np.unique(x))
+    listed_label = list(np.unique(x))
 
-    print(classification_report(test_labels, mnb_prediction, target_names=liste_label))
+    print(classification_report(test_labels, mnb_prediction, target_names=listed_label))
 
     return accuracy_train, accuracy_test
 
@@ -69,4 +76,3 @@ def load_dataset(filename):
 
 if __name__ == '__main__':
     run_question_classification(training_questions_fn, test_questions_fn)
-

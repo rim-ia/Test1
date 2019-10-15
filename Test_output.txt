@@ -1,0 +1,501 @@
+Question;Prédit;Réel
+ How far is it from Denver to Aspen ?;QUANTITY;QUANTITY
+What county is Modesto , California in ?;LOCATION;LOCATION
+Who was Galileo ?;PERSON;DEFINITION
+What is an atom ?;DEFINITION;DEFINITION
+When did Hawaii become a state ?;TEMPORAL;TEMPORAL
+ How tall is the Sears Building ?;QUANTITY;QUANTITY
+George Bush purchased a small interest in which baseball team ?;PERSON;ORGANIZATION
+What is Australia 's national flower ?;LOCATION;ENTITY
+Why does the moon turn orange ?;DESCRIPTION;DESCRIPTION
+What is autism ?;DEFINITION;DEFINITION
+What city had a world fair in 1900 ?;LOCATION;LOCATION
+What person 's head is on a dime ?;PERSON;PERSON
+What is the average weight of a Yellow Labrador ?;QUANTITY;QUANTITY
+Who was the first man to fly across the Pacific Ocean ?;PERSON;PERSON
+When did Idaho become a state ?;TEMPORAL;TEMPORAL
+What is the life expectancy for crickets ?;QUANTITY;QUANTITY
+What metal has the highest melting point ?;LOCATION;ENTITY
+Who developed the vaccination against polio ?;PERSON;PERSON
+What is epilepsy ?;DEFINITION;DEFINITION
+What year did the Titanic sink ?;TEMPORAL;TEMPORAL
+Who was the first American to walk in space ?;PERSON;PERSON
+What is a biosphere ?;DEFINITION;DEFINITION
+What river in the US is known as the Big Muddy ?;LOCATION;LOCATION
+What is bipolar disorder ?;DEFINITION;DEFINITION
+What is cholesterol ?;DEFINITION;DEFINITION
+Who developed the Macintosh computer ?;PERSON;PERSON
+What is caffeine ?;ENTITY;DEFINITION
+What imaginary line is halfway between the North and South Poles ?;LOCATION;LOCATION
+Where is John Wayne airport ?;LOCATION;LOCATION
+What hemisphere is the Philippines in ?;LOCATION;LOCATION
+What is the average speed of the horses at the Kentucky Derby ?;QUANTITY;QUANTITY
+Where are the Rocky Mountains ?;LOCATION;LOCATION
+What are invertebrates ?;ENTITY;DEFINITION
+What is the temperature at the center of the earth ?;LOCATION;QUANTITY
+When did John F. Kennedy get elected as President ?;PERSON;TEMPORAL
+How old was Elvis Presley when he died ?;QUANTITY;QUANTITY
+Where is the Orinoco River ?;LOCATION;LOCATION
+ How far is the service line from the net in tennis ?;QUANTITY;QUANTITY
+How much fiber should you have per day ?;QUANTITY;QUANTITY
+How many Great Lakes are there ?;QUANTITY;QUANTITY
+Material called linen is made from what plant ?;ENTITY;ENTITY
+What is Teflon ?;DEFINITION;DEFINITION
+What is amitriptyline ?;DEFINITION;DEFINITION
+What is a shaman ?;DEFINITION;DEFINITION
+What is the proper name for a female walrus ?;ENTITY;ENTITY
+What is a group of turkeys called ?;ENTITY;ENTITY
+How long did Rip Van Winkle sleep ?;QUANTITY;QUANTITY
+What are triglycerides ?;ENTITY;DEFINITION
+How many liters in a gallon ?;QUANTITY;QUANTITY
+What is the name of the chocolate company in San Francisco ?;ENTITY;ORGANIZATION
+What are amphibians ?;DEFINITION;DEFINITION
+Who discovered x-rays ?;PERSON;PERSON
+Which comedian 's signature line is `` Can we talk '' ?;PERSON;PERSON
+What is fibromyalgia ?;DEFINITION;DEFINITION
+What is done with worn or outdated flags ?;DEFINITION;DESCRIPTION
+What does cc in engines mean ?;DEFINITION;DEFINITION
+When did Elvis Presley die ?;TEMPORAL;TEMPORAL
+What is the capital of Yugoslavia ?;LOCATION;LOCATION
+Where is Milan ?;LOCATION;LOCATION
+What is the speed hummingbirds fly ?;QUANTITY;QUANTITY
+What is the oldest city in the United States ?;LOCATION;LOCATION
+What was W.C. Fields ' real name ?;PERSON;PERSON
+What river flows between Fargo , North Dakota and Moorhead , Minnesota ?;LOCATION;LOCATION
+What do bats eat ?;ENTITY;ENTITY
+What state did the Battle of Bighorn take place in ?;LOCATION;LOCATION
+Who was Abraham Lincoln ?;PERSON;DEFINITION
+What do you call a newborn kangaroo ?;DESCRIPTION;ENTITY
+What are spider veins ?;DEFINITION;DEFINITION
+What day and month did John Lennon die ?;TEMPORAL;TEMPORAL
+What strait separates North America from Asia ?;LOCATION;LOCATION
+What is the population of Seattle ?;LOCATION;QUANTITY
+How much was a ticket for the Titanic ?;QUANTITY;QUANTITY
+What is the largest city in the world ?;LOCATION;LOCATION
+What American composer wrote the music for `` West Side Story '' ?;PERSON;PERSON
+Where is the Mall of the America ?;LOCATION;LOCATION
+What is the pH scale ?;DEFINITION;DEFINITION
+What type of currency is used in Australia ?;ENTITY;ENTITY
+ How tall is the Gateway Arch in St. Louis , MO ?;QUANTITY;QUANTITY
+How much does the human adult female brain weigh ?;QUANTITY;QUANTITY
+Who was the first governor of Alaska ?;PERSON;PERSON
+What is a prism ?;DEFINITION;DEFINITION
+When was the first liver transplant ?;TEMPORAL;TEMPORAL
+Who was elected president of South Africa in 1994 ?;PERSON;PERSON
+What is the population of China ?;ENTITY;QUANTITY
+When was Rosa Parks born ?;TEMPORAL;TEMPORAL
+Why is a ladybug helpful ?;DESCRIPTION;DESCRIPTION
+What is amoxicillin ?;DEFINITION;DEFINITION
+Who was the first female United States Representative ?;PERSON;PERSON
+What are xerophytes ?;ENTITY;DEFINITION
+What country did Ponce de Leon come from ?;LOCATION;LOCATION
+The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?;ENTITY;ENTITY
+What is desktop publishing ?;DEFINITION;DEFINITION
+What is the temperature of the sun 's surface ?;QUANTITY;QUANTITY
+What year did Canada join the United Nations ?;TEMPORAL;TEMPORAL
+What is the oldest university in the US ?;LOCATION;ORGANIZATION
+Where is Prince Edward Island ?;LOCATION;LOCATION
+Mercury , what year was it discovered ?;PERSON;TEMPORAL
+What is cryogenics ?;DEFINITION;DEFINITION
+What are coral reefs ?;DEFINITION;DEFINITION
+What is the longest major league baseball-winning streak ?;PERSON;ENTITY
+What is neurology ?;DEFINITION;DEFINITION
+Who invented the calculator ?;PERSON;PERSON
+How do you measure earthquakes ?;DESCRIPTION;DESCRIPTION
+Who is Duke Ellington ?;PERSON;DEFINITION
+What county is Phoenix , AZ in ?;LOCATION;LOCATION
+What is a micron ?;DEFINITION;DEFINITION
+The sun 's core , what is the temperature ?;QUANTITY;QUANTITY
+What is the Ohio state bird ?;LOCATION;ENTITY
+When were William Shakespeare 's twins born ?;TEMPORAL;TEMPORAL
+What is the highest dam in the U.S. ?;LOCATION;LOCATION
+What color is a poison arrow frog ?;ENTITY;ENTITY
+What is acupuncture ?;DEFINITION;DEFINITION
+ What is the length of the coastline of the state of Alaska ?;LOCATION;QUANTITY
+What is the name of Neil Armstrong 's wife ?;PERSON;PERSON
+What is Hawaii 's state flower ?;LOCATION;ENTITY
+Who won Ms. American in 1989 ?;PERSON;PERSON
+When did the Hindenberg crash ?;TEMPORAL;TEMPORAL
+What mineral helps prevent osteoporosis ?;DESCRIPTION;ENTITY
+What was the last year that the Chicago Cubs won the World Series ?;PERSON;TEMPORAL
+Where is Perth ?;LOCATION;LOCATION
+What year did WWII begin ?;TEMPORAL;TEMPORAL
+ What is the diameter of a golf ball ?;ENTITY;QUANTITY
+What is an eclipse ?;ENTITY;DEFINITION
+Who discovered America ?;PERSON;PERSON
+ What is the earth 's diameter ?;ENTITY;QUANTITY
+Which president was unmarried ?;PERSON;PERSON
+ How wide is the Milky Way galaxy ?;QUANTITY;QUANTITY
+During which season do most thunderstorms occur ?;ENTITY;TEMPORAL
+What is Wimbledon ?;ENTITY;DEFINITION
+What is the gestation period for a cat ?;ENTITY;QUANTITY
+ How far is a nautical mile ?;QUANTITY;QUANTITY
+Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?;PERSON;PERSON
+What does target heart rate mean ?;DEFINITION;DEFINITION
+What was the first satellite to go into space ?;ENTITY;ENTITY
+What is foreclosure ?;LOCATION;DEFINITION
+What is the major fault line near Kentucky ?;LOCATION;ENTITY
+Where is the Holland Tunnel ?;LOCATION;LOCATION
+Who wrote the hymn `` Amazing Grace '' ?;PERSON;PERSON
+What position did Willie Davis play in baseball ?;PERSON;DEFINITION
+What are platelets ?;ENTITY;DEFINITION
+What is severance pay ?;ENTITY;DEFINITION
+What is the name of Roy Roger 's dog ?;ENTITY;ENTITY
+Where are the National Archives ?;LOCATION;LOCATION
+What is a baby turkey called ?;ENTITY;ENTITY
+What is poliomyelitis ?;ENTITY;DEFINITION
+What is the longest bone in the human body ?;ENTITY;ENTITY
+Who is a German philosopher ?;PERSON;PERSON
+What were Christopher Columbus ' three ships ?;ENTITY;ENTITY
+What does Phi Beta Kappa mean ?;DEFINITION;DEFINITION
+What is nicotine ?;ENTITY;DEFINITION
+What is another name for vitamin B1 ?;ENTITY;ENTITY
+Who discovered radium ?;PERSON;PERSON
+What are sunspots ?;ENTITY;DEFINITION
+When was Algeria colonized ?;TEMPORAL;TEMPORAL
+What baseball team was the first to make numbers part of their uniform ?;PERSON;ORGANIZATION
+What continent is Egypt on ?;LOCATION;LOCATION
+What is the capital of Mongolia ?;LOCATION;LOCATION
+What is nanotechnology ?;ENTITY;DEFINITION
+In the late 1700 's British convicts were used to populate which colony ?;ENTITY;LOCATION
+What state is the geographic center of the lower 48 states ?;LOCATION;LOCATION
+What is an obtuse angle ?;ENTITY;DEFINITION
+What are polymers ?;ENTITY;DEFINITION
+When is hurricane season in the Caribbean ?;LOCATION;TEMPORAL
+Where is the volcano Mauna Loa ?;LOCATION;LOCATION
+What is another astronomic term for the Northern Lights ?;ENTITY;ENTITY
+What peninsula is Spain part of ?;ENTITY;LOCATION
+When was Lyndon B. Johnson born ?;TEMPORAL;TEMPORAL
+What is acetaminophen ?;ENTITY;DEFINITION
+What state has the least amount of rain per year ?;LOCATION;LOCATION
+Who founded American Red Cross ?;PERSON;PERSON
+What year did the Milwaukee Braves become the Atlanta Braves ?;ENTITY;TEMPORAL
+How fast is alcohol absorbed ?;QUANTITY;QUANTITY
+When is the summer solstice ?;LOCATION;TEMPORAL
+What is supernova ?;ENTITY;DEFINITION
+Where is the Shawnee National Forest ?;LOCATION;LOCATION
+What U.S. state 's motto is `` Live free or Die '' ?;LOCATION;LOCATION
+Where is the Lourve ?;LOCATION;LOCATION
+When was the first stamp issued ?;PERSON;TEMPORAL
+What primary colors do you mix to make orange ?;DESCRIPTION;ENTITY
+ How far is Pluto from the sun ?;QUANTITY;QUANTITY
+What body of water are the Canary Islands in ?;ENTITY;LOCATION
+What is neuropathy ?;ENTITY;DEFINITION
+Where is the Euphrates River ?;LOCATION;LOCATION
+What is cryptography ?;ENTITY;DEFINITION
+What is natural gas composed of ?;ENTITY;ENTITY
+Who is the Prime Minister of Canada ?;PERSON;PERSON
+What French ruler was defeated at the battle of Waterloo ?;ENTITY;PERSON
+What is leukemia ?;DEFINITION;DEFINITION
+Where did Howard Hughes die ?;LOCATION;LOCATION
+What is the birthstone for June ?;ENTITY;ENTITY
+What is the sales tax in Minnesota ?;LOCATION;ENTITY
+ What is the distance in miles from the earth to the sun ?;QUANTITY;QUANTITY
+What is the average life span for a chicken ?;QUANTITY;QUANTITY
+When was the first Wal-Mart store opened ?;PERSON;TEMPORAL
+What is relative humidity ?;DEFINITION;DEFINITION
+What city has the zip code of 35824 ?;LOCATION;LOCATION
+What currency is used in Algeria ?;ENTITY;ENTITY
+Who invented the hula hoop ?;PERSON;PERSON
+What was the most popular toy in 1957 ?;ENTITY;ENTITY
+What is pastrami made of ?;ENTITY;ENTITY
+What is the name of the satellite that the Soviet Union sent into space in 1957 ?;ENTITY;ENTITY
+What city 's newspaper is called `` The Enquirer '' ?;LOCATION;LOCATION
+Who invented the slinky ?;PERSON;PERSON
+What are the animals that don 't have backbones called ?;ENTITY;ENTITY
+What is the melting point of copper ?;LOCATION;QUANTITY
+Where is the volcano Olympus Mons located ?;LOCATION;LOCATION
+Who was the 23rd president of the United States ?;PERSON;PERSON
+What is the average body temperature ?;QUANTITY;QUANTITY
+What does a defibrillator do ?;DESCRIPTION;DESCRIPTION
+What is the effect of acid rain ?;ENTITY;DESCRIPTION
+What year did the United States abolish the draft ?;LOCATION;TEMPORAL
+How fast is the speed of light ?;QUANTITY;QUANTITY
+What province is Montreal in ?;LOCATION;LOCATION
+What New York City structure is also known as the Twin Towers ?;PERSON;LOCATION
+What is fungus ?;ENTITY;DEFINITION
+What is the most frequently spoken language in the Netherlands ?;ENTITY;ENTITY
+What is sodium chloride ?;ENTITY;DEFINITION
+What are the spots on dominoes called ?;ENTITY;ENTITY
+How many pounds in a ton ?;QUANTITY;QUANTITY
+What is influenza ?;ENTITY;DEFINITION
+What is ozone depletion ?;ENTITY;DEFINITION
+What year was the Mona Lisa painted ?;PERSON;TEMPORAL
+What does `` Sitting Shiva '' mean ?;DEFINITION;DEFINITION
+What is the electrical output in Madrid , Spain ?;LOCATION;ENTITY
+Which mountain range in North America stretches from Maine to Georgia ?;LOCATION;LOCATION
+What is plastic made of ?;ENTITY;ENTITY
+What is the population of Nigeria ?;LOCATION;QUANTITY
+What does your spleen do ?;DESCRIPTION;DESCRIPTION
+Where is the Grand Canyon ?;LOCATION;LOCATION
+Who invented the telephone ?;PERSON;PERSON
+What year did the U.S. buy Alaska ?;LOCATION;TEMPORAL
+What is the name of the leader of Ireland ?;PERSON;PERSON
+What is phenylalanine ?;ENTITY;DEFINITION
+How many gallons of water are there in a cubic foot ?;QUANTITY;QUANTITY
+What are the two houses of the Legislative branch ?;ENTITY;ENTITY
+What is sonar ?;ENTITY;DEFINITION
+In Poland , where do most people live ?;LOCATION;LOCATION
+What is phosphorus ?;ENTITY;DEFINITION
+What is the location of the Sea of Tranquility ?;LOCATION;LOCATION
+How fast is sound ?;QUANTITY;QUANTITY
+What French province is cognac produced in ?;ENTITY;LOCATION
+What is Valentine 's Day ?;ENTITY;DEFINITION
+What causes gray hair ?;DESCRIPTION;DESCRIPTION
+What is hypertension ?;DEFINITION;DEFINITION
+What is bandwidth ?;ENTITY;DEFINITION
+What is the longest suspension bridge in the U.S. ?;LOCATION;LOCATION
+What is a parasite ?;ENTITY;DEFINITION
+What is home equity ?;LOCATION;DEFINITION
+What do meteorologists do ?;DESCRIPTION;DESCRIPTION
+What is the criterion for being legally blind ?;ENTITY;ENTITY
+Who is the tallest man in the world ?;PERSON;PERSON
+What are the twin cities ?;LOCATION;LOCATION
+What did Edward Binney and Howard Smith invent in 1903 ?;ENTITY;ENTITY
+What is the statue of liberty made of ?;ENTITY;ENTITY
+What is pilates ?;ENTITY;DEFINITION
+What planet is known as the `` red '' planet ?;LOCATION;LOCATION
+ What is the depth of the Nile river ?;LOCATION;QUANTITY
+What is the colorful Korean traditional dress called ?;ENTITY;ENTITY
+What is Mardi Gras ?;ENTITY;DEFINITION
+Mexican pesos are worth what in U.S. dollars ?;QUANTITY;QUANTITY
+Who was the first African American to play for the Brooklyn Dodgers ?;PERSON;PERSON
+Who was the first Prime Minister of Canada ?;PERSON;PERSON
+How many Admirals are there in the U.S. Navy ?;QUANTITY;QUANTITY
+What instrument did Glenn Miller play ?;ENTITY;ENTITY
+How old was Joan of Arc when she died ?;QUANTITY;QUANTITY
+What does the word fortnight mean ?;DEFINITION;DEFINITION
+What is dianetics ?;ENTITY;DEFINITION
+What is the capital of Ethiopia ?;LOCATION;LOCATION
+For how long is an elephant pregnant ?;QUANTITY;QUANTITY
+How did Janice Joplin die ?;DESCRIPTION;DESCRIPTION
+What is the primary language in Iceland ?;ENTITY;ENTITY
+What is the difference between AM radio stations and FM radio stations ?;DESCRIPTION;DESCRIPTION
+What is osteoporosis ?;ENTITY;DEFINITION
+Who was the first woman governor in the U.S. ?;PERSON;PERSON
+What is peyote ?;ENTITY;DEFINITION
+What is the esophagus used for ?;ENTITY;DESCRIPTION
+What is viscosity ?;DEFINITION;DEFINITION
+What year did Oklahoma become a state ?;TEMPORAL;TEMPORAL
+What is the abbreviation for Texas ?;ENTITY;ABBREVIATION
+What is a mirror made out of ?;ENTITY;ENTITY
+Where on the body is a mortarboard worn ?;LOCATION;LOCATION
+What was J.F.K. 's wife 's name ?;PERSON;PERSON
+What does I.V. stand for ?;ABBREVIATION;ABBREVIATION
+What is the chunnel ?;ENTITY;DEFINITION
+Where is Hitler buried ?;LOCATION;LOCATION
+What are antacids ?;ENTITY;DEFINITION
+What is pulmonary fibrosis ?;LOCATION;DEFINITION
+What are Quaaludes ?;ENTITY;DEFINITION
+What is naproxen ?;ENTITY;DEFINITION
+What is strep throat ?;ENTITY;DEFINITION
+What is the largest city in the U.S. ?;LOCATION;LOCATION
+What is foot and mouth disease ?;ENTITY;ENTITY
+What is the life expectancy of a dollar bill ?;QUANTITY;QUANTITY
+What do you call a professional map drawer ?;DESCRIPTION;ENTITY
+What are Aborigines ?;ENTITY;DEFINITION
+What is hybridization ?;ENTITY;DEFINITION
+What color is indigo ?;ENTITY;ENTITY
+How old do you have to be in order to rent a car in Italy ?;QUANTITY;QUANTITY
+What does a barometer measure ?;ENTITY;ENTITY
+What color is a giraffe 's tongue ?;ENTITY;ENTITY
+What does USPS stand for ?;ABBREVIATION;ABBREVIATION
+What year did the NFL go on strike ?;ENTITY;TEMPORAL
+What is solar wind ?;ENTITY;DEFINITION
+What date did Neil Armstrong land on the moon ?;TEMPORAL;TEMPORAL
+When was Hiroshima bombed ?;TEMPORAL;TEMPORAL
+Where is the Savannah River ?;LOCATION;LOCATION
+Who was the first woman killed in the Vietnam War ?;PERSON;PERSON
+What planet has the strongest magnetic field of all the planets ?;LOCATION;LOCATION
+Who is the governor of Alaska ?;PERSON;PERSON
+What year did Mussolini seize power in Italy ?;ENTITY;TEMPORAL
+What is the capital of Persia ?;LOCATION;LOCATION
+Where is the Eiffel Tower ?;LOCATION;LOCATION
+How many hearts does an octopus have ?;QUANTITY;QUANTITY
+What is pneumonia ?;ENTITY;DEFINITION
+What is the deepest lake in the US ?;LOCATION;LOCATION
+What is a fuel cell ?;ENTITY;DEFINITION
+Who was the first U.S. president to appear on TV ?;PERSON;PERSON
+Where is the Little League Museum ?;LOCATION;LOCATION
+What are the two types of twins ?;ENTITY;ENTITY
+What is the brightest star ?;LOCATION;LOCATION
+What is diabetes ?;DEFINITION;DEFINITION
+When was President Kennedy shot ?;PERSON;TEMPORAL
+What is TMJ ?;ENTITY;ABBREVIATION
+What color is yak milk ?;ENTITY;ENTITY
+What date was Dwight D. Eisenhower born ?;TEMPORAL;TEMPORAL
+What does the technical term ISDN mean ?;DEFINITION;ABBREVIATION
+Why is the sun yellow ?;DESCRIPTION;DESCRIPTION
+What is the conversion rate between dollars and pounds ?;DESCRIPTION;QUANTITY
+When was Abraham Lincoln born ?;TEMPORAL;TEMPORAL
+What is the Milky Way ?;ENTITY;DEFINITION
+What is mold ?;ENTITY;DEFINITION
+What year was Mozart born ?;TEMPORAL;TEMPORAL
+What is a group of frogs called ?;ENTITY;ENTITY
+What is the name of William Penn 's ship ?;ENTITY;ENTITY
+What is the melting point of gold ?;ENTITY;QUANTITY
+What is the street address of the White House ?;LOCATION;LOCATION
+What is semolina ?;ENTITY;DEFINITION
+What fruit is Melba sauce made from ?;ENTITY;ENTITY
+What is Ursa Major ?;ENTITY;DEFINITION
+What is the percentage of water content in the human body ?;QUANTITY;QUANTITY
+How much does water weigh ?;QUANTITY;QUANTITY
+What was President Lyndon Johnson 's reform program called ?;PERSON;ENTITY
+What is the murder rate in Windsor , Ontario ?;LOCATION;QUANTITY
+Who is the only president to serve 2 non-consecutive terms ?;PERSON;PERSON
+What is the population of Australia ?;LOCATION;QUANTITY
+Who painted the ceiling of the Sistine Chapel ?;PERSON;PERSON
+Name a stimulant .;ENTITY;ENTITY
+What is the effect of volcanoes on the climate ?;LOCATION;DESCRIPTION
+What year did the Andy Griffith show begin ?;TEMPORAL;TEMPORAL
+What is acid rain ?;ENTITY;DEFINITION
+What is the date of Mexico 's independence ?;LOCATION;TEMPORAL
+What is the location of Lake Champlain ?;LOCATION;LOCATION
+What is the Illinois state flower ?;LOCATION;ENTITY
+What is Maryland 's state bird ?;LOCATION;ENTITY
+What is quicksilver ?;ENTITY;DEFINITION
+Who wrote `` The Divine Comedy '' ?;PERSON;PERSON
+What is the speed of light ?;ENTITY;QUANTITY
+ What is the width of a football field ?;ENTITY;QUANTITY
+Why in tennis are zero points called love ?;DESCRIPTION;DESCRIPTION
+What kind of dog was Toto in the Wizard of Oz ?;ENTITY;ENTITY
+What is a thyroid ?;ENTITY;DEFINITION
+What does ciao mean ?;DEFINITION;DEFINITION
+What is the only artery that carries blue blood from the heart to the lungs ?;ENTITY;ENTITY
+How often does Old Faithful erupt at Yellowstone National Park ?;QUANTITY;QUANTITY
+What is acetic acid ?;ENTITY;DEFINITION
+ What is the elevation of St. Louis , MO ?;LOCATION;QUANTITY
+What color does litmus paper turn when it comes into contact with a strong acid ?;ENTITY;ENTITY
+What are the colors of the German flag ?;ENTITY;ENTITY
+What is the Moulin Rouge ?;ENTITY;DEFINITION
+What soviet seaport is on the Black Sea ?;LOCATION;LOCATION
+What is the atomic weight of silver ?;ENTITY;QUANTITY
+What currency do they use in Brazil ?;ENTITY;ENTITY
+What are pathogens ?;ENTITY;DEFINITION
+What is mad cow disease ?;ENTITY;DEFINITION
+Name a food high in zinc .;ENTITY;ENTITY
+When did North Carolina enter the union ?;TEMPORAL;TEMPORAL
+Where do apple snails live ?;LOCATION;LOCATION
+What are ethics ?;ENTITY;DEFINITION
+What does CPR stand for ?;ABBREVIATION;ABBREVIATION
+What is an annuity ?;ENTITY;DEFINITION
+Who killed John F. Kennedy ?;PERSON;PERSON
+Who was the first vice president of the U.S. ?;PERSON;PERSON
+What birthstone is turquoise ?;ENTITY;ENTITY
+Who was the first US President to ride in an automobile to his inauguration ?;PERSON;PERSON
+How old was the youngest president of the United States ?;QUANTITY;QUANTITY
+When was Ulysses S. Grant born ?;TEMPORAL;TEMPORAL
+What is Muscular Dystrophy ?;ENTITY;DEFINITION
+Who lived in the Neuschwanstein castle ?;PERSON;PERSON
+What is propylene glycol ?;ENTITY;DEFINITION
+What is a panic disorder ?;DEFINITION;DEFINITION
+Who invented the instant Polaroid camera ?;PERSON;PERSON
+What is a carcinogen ?;ENTITY;DEFINITION
+What is a baby lion called ?;ENTITY;ENTITY
+What is the world 's population ?;LOCATION;QUANTITY
+What is nepotism ?;ENTITY;DEFINITION
+What is die-casting ?;DESCRIPTION;DEFINITION
+What is myopia ?;ENTITY;DEFINITION
+What is the sales tax rate in New York ?;LOCATION;QUANTITY
+Developing nations comprise what percentage of the world 's population ?;QUANTITY;QUANTITY
+What is the fourth highest mountain in the world ?;LOCATION;LOCATION
+What is Shakespeare 's nickname ?;ENTITY;PERSON
+What is the heaviest naturally occurring element ?;ENTITY;ENTITY
+When is Father 's Day ?;TEMPORAL;TEMPORAL
+What does the acronym NASA stand for ?;ABBREVIATION;ABBREVIATION
+ How long is the Columbia River in miles ?;QUANTITY;QUANTITY
+What city 's newspaper is called `` The Star '' ?;LOCATION;LOCATION
+What is carbon dioxide ?;DEFINITION;DEFINITION
+Where is the Mason/Dixon line ?;LOCATION;LOCATION
+When was the Boston tea party ?;PERSON;TEMPORAL
+What is metabolism ?;ENTITY;DEFINITION
+Which U.S.A. president appeared on `` Laugh-In '' ?;PERSON;PERSON
+What are cigarettes made of ?;ENTITY;ENTITY
+What is the capital of Zimbabwe ?;LOCATION;LOCATION
+What does NASA stand for ?;ABBREVIATION;ABBREVIATION
+What is the state flower of Michigan ?;LOCATION;ENTITY
+What are semiconductors ?;ENTITY;DEFINITION
+What is nuclear power ?;DEFINITION;DEFINITION
+What is a tsunami ?;ENTITY;DEFINITION
+Who is the congressman from state of Texas on the armed forces committee ?;PERSON;PERSON
+Who was president in 1913 ?;PERSON;PERSON
+When was the first kidney transplant ?;PERSON;TEMPORAL
+What are Canada 's two territories ?;ENTITY;LOCATION
+What was the name of the plane Lindbergh flew solo across the Atlantic ?;PERSON;ENTITY
+What is genocide ?;ENTITY;DEFINITION
+What continent is Argentina on ?;LOCATION;LOCATION
+What monastery was raided by Vikings in the late eighth century ?;ENTITY;ENTITY
+What is an earthquake ?;ENTITY;DEFINITION
+Where is the tallest roller coaster located ?;LOCATION;LOCATION
+What are enzymes ?;ENTITY;DEFINITION
+Who discovered oxygen ?;PERSON;PERSON
+What is bangers and mash ?;ENTITY;DEFINITION
+What is the name given to the Tiger at Louisiana State University ?;ENTITY;ENTITY
+Where are the British crown jewels kept ?;LOCATION;LOCATION
+Who was the first person to reach the North Pole ?;PERSON;PERSON
+What is an ulcer ?;ENTITY;DEFINITION
+What is vertigo ?;ENTITY;DEFINITION
+What is the spirometer test ?;ENTITY;DEFINITION
+When is the official first day of summer ?;PERSON;TEMPORAL
+What does the abbreviation SOS mean ?;DEFINITION;ABBREVIATION
+What is the smallest bird in Britain ?;LOCATION;ENTITY
+Who invented Trivial Pursuit ?;PERSON;PERSON
+What gasses are in the troposphere ?;ENTITY;ENTITY
+Which country has the most water pollution ?;LOCATION;LOCATION
+What is the scientific name for elephant ?;ENTITY;ENTITY
+Who is the actress known for her role in the movie `` Gypsy '' ?;PERSON;PERSON
+What breed of hunting dog did the Beverly Hillbillies own ?;ENTITY;ENTITY
+What is the rainiest place on Earth ?;LOCATION;LOCATION
+Who was the first African American to win the Nobel Prize in literature ?;PERSON;PERSON
+When is St. Patrick 's Day ?;TEMPORAL;TEMPORAL
+What was FDR 's dog 's name ?;ENTITY;ENTITY
+What colors need to be mixed to get the color pink ?;ENTITY;ENTITY
+What is the most popular sport in Japan ?;ENTITY;ENTITY
+What is the active ingredient in baking soda ?;ENTITY;ENTITY
+When was Thomas Jefferson born ?;TEMPORAL;TEMPORAL
+How cold should a refrigerator be ?;QUANTITY;QUANTITY
+When was the telephone invented ?;PERSON;TEMPORAL
+What is the most common eye color ?;ENTITY;ENTITY
+Where was the first golf course in the United States ?;LOCATION;LOCATION
+What is schizophrenia ?;ENTITY;DEFINITION
+What is angiotensin ?;ENTITY;DEFINITION
+What did Jesse Jackson organize ?;LOCATION;ORGANIZATION
+What is New York 's state bird ?;LOCATION;ENTITY
+What is the National Park in Utah ?;LOCATION;LOCATION
+What is Susan B. Anthony 's birthday ?;DEFINITION;TEMPORAL
+In which state would you find the Catskill Mountains ?;LOCATION;LOCATION
+What do you call a word that is spelled the same backwards and forwards ?;ENTITY;ENTITY
+What are pediatricians ?;ENTITY;DEFINITION
+What chain store is headquartered in Bentonville , Arkansas ?;LOCATION;ORGANIZATION
+What are solar cells ?;ENTITY;DEFINITION
+What is compounded interest ?;ENTITY;DEFINITION
+What are capers ?;ENTITY;DEFINITION
+What is an antigen ?;ENTITY;DEFINITION
+What currency does Luxembourg use ?;ENTITY;ENTITY
+What is the population of Venezuela ?;LOCATION;QUANTITY
+What type of polymer is used for bulletproof vests ?;ENTITY;ENTITY
+What currency does Argentina use ?;ENTITY;ENTITY
+What is a thermometer ?;ENTITY;DEFINITION
+What Canadian city has the largest population ?;LOCATION;LOCATION
+What color are crickets ?;ENTITY;ENTITY
+Which country gave New York the Statue of Liberty ?;LOCATION;LOCATION
+What was the name of the first U.S. satellite sent into space ?;PERSON;ENTITY
+What precious stone is a form of pure carbon ?;ENTITY;ENTITY
+What kind of gas is in a fluorescent bulb ?;ENTITY;ENTITY
+What is rheumatoid arthritis ?;ENTITY;DEFINITION
+What river runs through Rowe , Italy ?;LOCATION;LOCATION
+What is cerebral palsy ?;ENTITY;DEFINITION
+What city is also known as `` The Gateway to the West '' ?;ENTITY;LOCATION
+ How far away is the moon ?;QUANTITY;QUANTITY
+What is the source of natural gas ?;ENTITY;ENTITY
+In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?;PERSON;ENTITY
+What is pectin ?;ENTITY;DEFINITION
+What is bio-diversity ?;ENTITY;DEFINITION
+What 's the easiest way to remove wallpaper ?;ENTITY;ENTITY
+What year did the Titanic start on its journey ?;ENTITY;TEMPORAL
+How much of an apple is water ?;QUANTITY;QUANTITY
+Who was the 22nd President of the US ?;PERSON;PERSON
+What is the money they use in Zambia ?;ENTITY;ENTITY
+How many feet in a mile ?;QUANTITY;QUANTITY
+What is the birthstone of October ?;ENTITY;ENTITY
+What is e-coli ?;ENTITY;DEFINITION

@@ -1,0 +1,95 @@
+# -*- coding: utf-8 -*-
+import sys
+import numpy as np
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import cross_val_score
+# from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import classification_report
+from sklearn.pipeline import Pipeline
+
+training_questions_fn = "./data/questions-t3.txt"
+test_questions_fn = "./data/test-questions-t3.txt"
+
+
+def load_dataset(filename):
+    with open(filename) as f:
+        lines = f.read().splitlines()
+        labels, questions = zip(*[tuple(s.split(' ', 1)) for s in lines])
+    return questions, labels
+
+
+def run_question_classification(training_fn, test_fn):
+    accuracy_train, accuracy_test = train_and_test_classifier(training_fn, test_fn)
+    print("Accuracy on training set: {0:.4f}".format(accuracy_train))
+    print("Accuracy on test set: {0:.4f}".format(accuracy_test))
+
+
+def train_and_test_classifier(training_fn, test_fn):
+
+    ############################################################
+    ##                 CHARGEMENT DE DONNÉES                  ##
+    ############################################################
+
+    # Jeu d'entraînement
+    questions, labels = load_dataset(training_fn)
+    print("Nb questions d'entraînement:", len(questions))
+
+    # Jeu de test
+    test_questions, test_labels = load_dataset(test_fn)
+    print("Nb questions de test:", len(test_questions))
+
+    # Insérer ici votre code pour la classification des questions.
+
+    ############################################################
+    ##                 APPRENTISSAGE                          ##
+    ############################################################
+
+    from sklearn.naive_bayes import MultinomialNB
+
+    ####### TOKENIZATION
+
+    def tokenize(text):
+        tokens = nltk.word_tokenize(text)
+        stems = stem_tokens(tokens, stemmer)
+        return stems
+
+    stemmer = PorterStemmer()
+
+    def stem_tokens(tokens, stemmer):
+        stemmed = []
+        for item in tokens:
+            stemmed.append(stemmer.stem(item))
+        return stemmed
+
+    text_clf = Pipeline([('vect', CountVectorizer(tokenizer=tokenize)),
+                         ('tfidf', TfidfTransformer(norm='l2', use_idf=True, smooth_idf=True, sublinear_tf=False)),
+                         ('clf', MultinomialNB(alpha=1.0)),
+                         ])
+
+    # Entrainement du modèle
+    text_clf = text_clf.fit(questions, labels)
+
+    ############################################################
+    ##               MESURE PERFORMANCE                       ##
+    ############################################################
+
+    predicted = text_clf.predict(test_questions)
+    prediction = np.mean(predicted == test_labels)
+    print("")
+    print("################# MNB MNB MNB #################")
+    print("Précision globale sur le jeu de test en mode MNB")
+    print("")
+    print(prediction)
+    print("")
+    print("Rapport de classification")
+    print("")
+    from sklearn import metrics
+    print(metrics.classification_report(test_labels, predicted))
+
+    # return accuracy_train, accuracy_test
+
+
+if __name__ == '__main__':
+    train_and_test_classifier(training_questions_fn, test_questions_fn)
+
