@@ -1,0 +1,2 @@
+
+for %%f in (*.json) do ECHO %%~nf.json 
